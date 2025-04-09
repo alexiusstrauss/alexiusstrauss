@@ -1,10 +1,14 @@
 ## 👋 Olá, eu sou Alexius Strauss
 
 ### 🚀 Sobre Mim
-Sou desenvolvedor há mais de **10 anos**, especializado em soluções tecnológicas que unem desenvolvimento de software à inteligência artificial. Minha jornada começou com **Delphi** e **PHP**, e há mais de **7 anos**, tenho me dedicado profundamente ao **Python**, criando soluções escaláveis que envolvem **Machine Learning**, **LLMs** e integrações com APIs avançadas como **OpenAI**, **Anthropic** e **Google Gemini**.
 
-Trabalho com frameworks consolidados como **Django**, **FastAPI** e **Apache Airflow**, e desenvolvo aplicações robustas utilizando técnicas modernas de IA, como **fine-tuning**.
-Além disso, tenho explorado o universo do **frontend** com **Nuxt**, **Vue.js** e **Flutter**, e aprofundado conhecimentos em **DevOps**, utilizando ferramentas como **Docker**, **Kubernetes** e **Azure DevOps**.
+Sou desenvolvedor há mais de **10 anos**, com experiência desde aplicações web até inteligência artificial. Nos últimos **7 anos**, meu foco principal tem sido o desenvolvimento em **Python**, criando soluções escaláveis com **Machine Learning** e **LLMs** (_OpenAI, Anthropic, Google Gemini, Ollama_).
+
+Trabalho tanto na manutenção e evolução de **sistemas monolíticos** quanto na construção de **microsserviços** com comunicação assíncrona via filas (**RabbitMQ**, **Kafka**) ou **APIs REST** robustas, utilizando padrões de projeto e testes automatizados para garantir qualidade e fácil manutenção.
+
+Tenho prática desde o desenvolvimento até o deploy, configurando e gerenciando clusters em **Kubernetes**, monitorando aplicações com ferramentas de **observabilidade** e **APM**. Além disso, exploro o frontend com **Nuxt**, **Vue.js** e **Flutter**.
+
+Estou constantemente atualizado com tecnologias emergentes para entregar soluções completas, estáveis e eficientes.
 
 ---
 ### 🛠️ Tecnologias e Ferramentas
