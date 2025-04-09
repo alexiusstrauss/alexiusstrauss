@@ -19,7 +19,7 @@ Além disso, tenho explorado o universo do **frontend** com **Nuxt**, **Vue.js**
   <img align="center" alt="Alexius-Kubernetes" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain.svg" title="Kubernetes">
   <img align="center" alt="Alexius-Azure" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azure/azure-original.svg" title="Azure DevOps">
   <img align="center" alt="Alexius-Linux" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" title="Linux">
-  <img align="center" alt="Alexius-LLM" height="40" width="50" src="https://cdn-icons-png.flaticon.com/512/10395/10395466.png" title="LLM">
+  <img align="center" alt="Alexius-tensorflow" height="40" width="50" src="https://cdn.iconscout.com/icon/free/png-256/free-tensor-flow-icon-download-in-svg-png-gif-file-formats--tensorflow-ai-user-interface-pack-icons-4492469.png" title="Tensorflow">
 </div>
 
 ---
