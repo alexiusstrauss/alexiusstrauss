@@ -1,8 +1,9 @@
 ## 👋 Olá, eu sou Alexius Strauss
 
 ### 🚀 Sobre Mim
-Sou desenvolvedor há mais de **10 anos**, apaixonado por criar soluções tecnológicas que fazem a diferença. Minha jornada começou com **Delphi**, depois passei por **PHP**, e há mais de **7 anos**, mergulhei de cabeça em **Python**. Trabalho com os principais frameworks do mercado, como **Django**, **FastAPI**, **Flask** e **Apache Airflow**, criando desde APIs robustas até pipelines de dados complexos.
+Sou desenvolvedor há mais de **10 anos**, especializado em soluções tecnológicas que unem desenvolvimento de software à inteligência artificial. Minha jornada começou com **Delphi** e **PHP**, e há mais de **7 anos**, tenho me dedicado profundamente ao **Python**, criando soluções escaláveis que envolvem **Machine Learning**, **LLMs** e integrações com APIs avançadas como **OpenAI**, **Anthropic** e **Google Gemini**.
 
+Trabalho com frameworks consolidados como **Django**, **FastAPI** e **Apache Airflow**, e desenvolvo aplicações robustas utilizando técnicas modernas de IA, como **fine-tuning**.
 Além disso, tenho explorado o universo do **frontend** com **Nuxt**, **Vue.js** e **Flutter**, e aprofundado conhecimentos em **DevOps**, utilizando ferramentas como **Docker**, **Kubernetes** e **Azure DevOps**.
 
 ---
@@ -32,7 +33,7 @@ Projeto desenvolvido com **FastAPI**, que consome dados da API do **Mercado Bitc
 **Destaques técnicos:**
 - **Backend:** FastAPI.
 - **Análises:** Executadas de forma recorrente com agendamentos.
-- **Banco de dados local:** Para consultas rápidas e filtradas.
+- **Banco de dados local:** Para consultas rápidas.
 
 #### [AudioTopic](https://github.com/alexiusstrauss/AudioTopic)
 Projeto criado para resolver um desafio técnico. Composto por um **backend em FastAPI**, utilizando **TensorFlow** e **OpenAI** para processamento e resumo de áudios. O sistema realiza:
