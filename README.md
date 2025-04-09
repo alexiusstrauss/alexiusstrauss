@@ -19,7 +19,7 @@ Além disso, tenho explorado o universo do **frontend** com **Nuxt**, **Vue.js**
   <img align="center" alt="Alexius-Kubernetes" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain.svg" title="Kubernetes">
   <img align="center" alt="Alexius-Azure" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azure/azure-original.svg" title="Azure DevOps">
   <img align="center" alt="Alexius-Linux" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" title="Linux">
-  <img align="center" alt="Alexius-Flutter" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg" title="Flutter">
+  <img align="center" alt="Alexius-LangChain" height="40" width="50" src="https://avatars.githubusercontent.com/u/126522767?s=280&v=4" title="LangChain">
 </div>
 
 ---
@@ -52,10 +52,11 @@ O frontend foi desenvolvido em **Nuxt3** para uma interface amigável e responsi
 
 
 ### 💡 O Que Eu Tenho Estudado
-- **Frontend:** Nuxt, Vue.js, Flutter.
+- **Frontend:** Nuxt, Vue.js.
 - **DevOps:** Docker, Kubernetes, RancherOS, Azure DevOps.
 - **Frameworks Backend:** Django, FastAPI, Flask.
 - **Data Pipelines:** Apache Airflow.
+- **LLM:** LiteLLM, LangChain, TensorFlow, OpenAI, OpenAI Azure.
 
 ---
 
